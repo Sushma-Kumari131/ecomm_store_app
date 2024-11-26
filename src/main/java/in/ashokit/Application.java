@@ -15,6 +15,8 @@ public class Application {
 		System.out.println(j);
 		char gender = 'F';
 		int age = 20;
+		boolean isSaved = false;
+		boolean isUpdated = true;
 		String name = "sushma";
 		double price = 123.90;
 
