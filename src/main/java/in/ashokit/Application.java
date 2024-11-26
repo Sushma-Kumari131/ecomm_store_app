@@ -13,6 +13,7 @@ public class Application {
 		System.out.println(i);
 		int k = 30;
 		System.out.println(j);
+		String name = "sushma";
 	}
 
 }
