@@ -23,4 +23,9 @@ public class Application {
 
 	}
 
+	// JIRA - 102
+	public void m2(){
+		// logic
+	}
+
 }
